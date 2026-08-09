@@ -45,7 +45,7 @@ export default function Footer({ showWeKnowWhatYouDid }: FooterProps) {
             <strong style={{ color: '#FFFFFF' }}>Support:</strong> 1-800-WORK-FIND &nbsp;|&nbsp;{' '}
             <strong style={{ color: '#FFFFFF' }}>Email:</strong>{' '}
             <span style={{ color: '#88BBFF', textDecoration: 'underline' }}>
-              contact@workplacefinder.com
+              support@workplacefinder.net
             </span>
           </div>
           <div style={{ color: '#888888', fontSize: '11px' }}>

@@ -454,7 +454,7 @@ export default function HomePage({ navigate }: HomePageProps) {
                   <strong>Email:</strong>
                   <br />
                   <span style={{ color: '#0033CC', textDecoration: 'underline', wordBreak: 'break-all', fontSize: '11px' }}>
-                    contact@workplacefinder.com
+                    support@workplacefinder.net
                   </span>
                 </div>
               </div>

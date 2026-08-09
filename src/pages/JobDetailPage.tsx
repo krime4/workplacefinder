@@ -351,7 +351,7 @@ export default function JobDetailPage({ id, navigate }: JobDetailPageProps) {
         >
           Questions about this listing? Call <strong>1-800-WORK-FIND</strong> or email{' '}
           <span style={{ color: '#0033CC', textDecoration: 'underline' }}>
-            contact@workplacefinder.com
+            support@workplacefinder.net
           </span>
         </div>
       </div>
