@@ -142,4 +142,14 @@ export const jobs: Job[] = [
     description:
       "MIG and TIG welding on structural steel components. Read and interpret welding symbols. Must provide own helmet and gloves. 2+ years experience required.",
   },
+  {
+  id: 13,
+  title: "Therapist",
+  company: "Harmony Health Counseling",
+  location: "Westfield, WI",
+  posted: "June 28, 2003",
+  salary: "$25.50/hr",
+  type: "Full-Time",
+  description: "Compassionate and client-focused therapist dedicated to helping individuals overcome emotional and behavioral challenges. Experienced in providing confidential, evidence-based counseling, developing individualized treatment plans, and creating a safe, supportive environment for clients. Strong communication and active-listening skills with a commitment to helping clients build healthy coping strategies, improve emotional well-being, and achieve meaningful personal growth.",
+  }
 ];
